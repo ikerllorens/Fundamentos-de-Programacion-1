@@ -1,0 +1,125 @@
+1
+Pink Floyd
+The Dark Side of the Moon
+1973
+Progressive Rock
+2
+Pink Floyd
+The Piper at the Gates of Dawn
+1967
+Progressive Rock
+3
+Pink Floyd
+A Sauceful of Secrets
+1968
+Progressive Rock
+4
+Pink Floyd
+Music from the Film More
+1969
+Progressive Rock
+5
+Pink Floyd
+Ummagumma
+1969
+Progressive Rock
+6
+Pink Floyd
+Meddle
+1971
+Progressive Rock
+7
+Pink Floyd
+Obscured by Clouds
+1972
+Progressive Rock
+8
+Pink Floyd
+Wish you Were Here
+1975
+Progressive Rock
+9
+Pink Floyd
+Animals
+1977
+Progressive Rock
+10
+Pink Floyd
+The Wall
+1979
+Progressive Rock
+11
+Pink Floyd
+The Final Cut
+1983
+Progressive Rock
+12
+Pink Floyd
+A Momentary Lapse of Reason
+1987
+Progressive Rock
+13
+Pink Floyd
+The Division Bell
+1994
+Progressive Rock
+14
+Tiesto
+Forbidden Paradise 1: The Garden of Evil
+1994
+Trance
+15
+Tiesto
+Forbidden Paradise 2: The Beauty and The Beast
+1995
+Trance
+16
+Tiesto
+Forbidden Paradise 3: The Quest for Atlantis
+1995
+Trance
+17
+Tiesto
+Forbidden Paradise 4: High as a Kite
+1995
+Trance
+18
+Tiesto
+Forbidden Paradise 5: Arctic Expedition
+1996
+Trance
+19
+Tiesto
+Lost Treasures: Isle of Ra
+1996
+Trance
+20
+Tiesto
+Lost Treasures: Concerto for Sonic Circles
+1996
+Trance
+21
+Tiesto
+Forbidden Paradise 6: Valley of Fire
+1996
+Trance
+22
+Tiesto
+In Search for Sunrise
+1999
+Trance
+23
+Tiesto
+Revolution
+2001
+Trance
+33
+David Bowie
+Heroes
+1977
+Glam
+150
+Diego Martin
+Pruebas y mas Pruebas
+2012
+Test

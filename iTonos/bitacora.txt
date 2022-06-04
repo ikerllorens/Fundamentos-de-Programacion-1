@@ -1,0 +1,148 @@
+Wed Nov 28 10:16:57 2012
+Alta.
+Disco#11
+Artista:Diego
+Album:Prueba
+Año:2012
+Genero:Rock
+
+Wed Nov 28 11:05:15 2012
+Alta.
+Disco#13
+Artista:Edgar
+Album:Prueba
+Año:2012
+Genero:Test
+
+Wed Nov 28 15:54:11 2012
+Baja.
+Disco#10
+Artista:Diego Martin
+Album:Test
+Año:2012
+Genero:Prueba
+
+Wed Nov 28 16:02:04 2012
+Alta.
+Disco#10
+Artista:Diego Martin
+Album:Probando Probando
+Año:2012
+Genero:Test
+
+Wed Nov 28 16:02:18 2012
+Baja.
+Disco#10
+Artista:Diego Martin
+Album:Probando Probando
+Año:2012
+Genero:Test
+
+Wed Nov 28 16:04:04 2012
+Alta.
+Disco#8
+Artista:Diego Martin
+Album:Probando
+Año:2011
+Genero:Rock
+
+Wed Nov 28 16:04:21 2012
+Baja.
+Disco#11
+Artista:Diego
+Album:Prueba
+Año:2012
+Genero:Rock
+
+Wed Nov 28 16:05:33 2012
+Alta.
+Disco#9
+Artista:Memo
+Album:Profe
+Año:2011
+Genero:Progra
+
+Wed Nov 28 16:13:46 2012
+Alta.
+Disco#50
+Artista:Pink Floyd
+Album:Drak Side of the Moon
+Año:1972
+Genero:Progresivo
+
+Wed Nov 28 17:39:40 2012
+Baja.
+Disco#99
+Artista:Album:Año:Genero:
+Wed Nov 28 20:55:21 2012
+Alta.
+Disco#6
+Artista:Alvaro
+Album:Martin
+Año:2012
+Genero:Rock
+
+Thu Nov 29 21:45:45 2012
+Alta.
+Disco#33
+Artista:alvaro
+Album:aire
+Año:2012
+Genero:rock
+
+Thu Nov 29 21:46:21 2012
+Alta.
+Disco#34
+Artista:diego
+Album:mar
+Año:dos
+Genero:malo
+
+Thu Nov 29 21:46:42 2012
+Baja.
+Disco#34
+Artista:diego
+Album:mar
+Año:dos
+Genero:malo
+
+Thu Nov 29 21:46:48 2012
+Baja.
+Disco#33
+Artista:alvaro
+Album:aire
+Año:2012
+Genero:rock
+
+Thu Nov 29 21:49:25 2012
+Alta.
+Disco#25
+Artista:alvaro
+Album:aire
+Año:1900
+Genero:malo
+
+Fri Nov 30 17:01:16 2012
+Baja.
+Disco#25
+Artista:alvaro
+Album:aire
+Año:1900
+Genero:malo
+
+Tue Dec  4 18:23:43 2012
+Alta.
+Disco#24
+Artista:Hola
+Album:Prueba
+Año:1900
+Genero:Lo que sea
+
+Tue Dec  4 18:25:00 2012
+Baja.
+Disco#24
+Artista:Hola
+Album:Prueba
+Año:1900
+Genero:Lo que sea
+

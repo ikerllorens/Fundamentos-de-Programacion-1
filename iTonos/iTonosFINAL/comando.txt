@@ -1,0 +1,3 @@
+gcc -c alta.c baja.c bitacora.c cargar.c guardar.c main.c modificar.c  listado.c login.c crearAdmin.c ayuda.c creditos.c
+
+gcc -o cds.out alta.o baja.o bitacora.o cargar.o guardar.o main.o modificar.o listado.o login.o crearAdmin.o ayuda.o creditos.o

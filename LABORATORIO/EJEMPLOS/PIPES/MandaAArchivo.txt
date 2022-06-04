@@ -1,0 +1,10 @@
+ic12ill@antares:~/PRUEBAS$ 
+ic12ill@antares:~/PRUEBAS$ cd PIPES
+ic12ill@antares:~/PRUEBAS/PIPES$ touch mandalo.txt
+ic12ill@antares:~/PRUEBAS/PIPES$ gcc -c Datos.c
+ic12ill@antares:~/PRUEBAS/PIPES$ gcc -o Datos.out Datos.o
+ic12ill@antares:~/PRUEBAS/PIPES$ cat mandalo.txt | ./Datos.out 
+831ic12ill@antares:~/PRUEBAS/PIPES$ touch resultado.txt
+ic12ill@antares:~/PRUEBAS/PIPES$ cat mandalo.txt | ./Datos.out >> resultado.txt 
+ic12ill@antares:~/PRUEBAS/PIPES$ 
+
